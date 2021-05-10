@@ -1,0 +1,97 @@
+body {
+
+    text-align: center;
+    background: linear-gradient(#faf20a 0%,
+            #ff0000 25%, #ffd000, 50%,
+            #ff6200 75%, #ffd500 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+
+
+}
+
+
+img:hover {
+    transform: scale(0.9);
+
+}
+
+img2:hover {
+    transform: scale(0.9);
+
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3353;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+#History {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+p1 {
+    font-size: 20px padding:20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#My Inspiration {}
